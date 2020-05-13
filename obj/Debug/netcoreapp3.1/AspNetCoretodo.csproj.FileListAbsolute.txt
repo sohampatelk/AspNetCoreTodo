@@ -92,3 +92,4 @@ C:\Users\soham\Desktop\HTML-CSS-JAVASCRIPT\c#\day-1\AspNetCoretodo\obj\Debug\net
 C:\Users\soham\Desktop\HTML-CSS-JAVASCRIPT\c#\day-1\AspNetCoretodo\obj\Debug\netcoreapp3.1\AspNetCoretodo.dll
 C:\Users\soham\Desktop\HTML-CSS-JAVASCRIPT\c#\day-1\AspNetCoretodo\obj\Debug\netcoreapp3.1\AspNetCoretodo.pdb
 C:\Users\soham\Desktop\HTML-CSS-JAVASCRIPT\c#\day-1\AspNetCoretodo\obj\Debug\netcoreapp3.1\AspNetCoretodo.genruntimeconfig.cache
+C:\Users\soham\Desktop\HTML-CSS-JAVASCRIPT\c#\day-1\AspNetCoreTodo\obj\Debug\netcoreapp3.1\Razor\Views\Todo\Index.cshtml.g.cs
